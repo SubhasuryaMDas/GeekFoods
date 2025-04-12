@@ -1,5 +1,5 @@
 import styles from './Testimonials.module.css';
-import avatar from '../assets/avtar.jpeg'; // replace with actual image
+import avatar from '../assets/photo-1603366445787-09714680cbf1 (1).jpeg'; // replace with actual image
 
 const testimonials = [
   {
